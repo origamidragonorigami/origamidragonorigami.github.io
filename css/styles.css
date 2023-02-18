@@ -1,5 +1,10 @@
 header {
+  font-family:fantasy;
+  
   border-color: red;
   border-width: 3px;
   border-style: solid;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
