@@ -12,6 +12,6 @@ body {
   border-bottom-width: 50px;
   border-left-width: 1px;
   border-right-width: 10px;
-  border-style: groove;
+  border-style:double;
   border-color: deeppink;
 }
