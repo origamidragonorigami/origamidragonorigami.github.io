@@ -18,7 +18,7 @@ const myImages = [
         src: "/images/Gelatinous_cube_attack-5e.webp",
         description: "a gelatinous cube attacking an unsuspecting dwarf",
         alt: "that poor dwarf"
-    }
+    },
     {
         src: "/images/sphere00.jpg",
         description: "a lonely sphere",
